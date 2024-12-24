@@ -2,7 +2,8 @@
 
 HealthSync é uma API REST desenvolvida para gerenciar dados de saúde de forma eficiente e segura. Este projeto utiliza as melhores práticas aprendidas no curso "Spring Boot 3: aplique boas práticas e proteja uma API Rest" pela Alura, garantindo um código limpo, bem estruturado e seguro.
 
-✨ Funcionalidades
+#✨ Funcionalidades
+
 • 📋 Gerenciamento de Usuários: Cadastro, edição e exclusão de usuários.
 • 🔒 Autenticação e Autorização: Segurança implementada com Spring Security e suporte a JWT.
 • 📊 Monitoramento de Dados de Saúde: Endpoints para registrar e consultar dados de saúde.
